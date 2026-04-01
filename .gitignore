@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pid
+*.log
+router-stats.json
+router-err.log
+router.log
+.env
+*.bak
+
+# Local test files
+test_*.py
+test_*.ps1
+final_test.ps1
+discover_models.py
+extract_maas*.py
+list_enabled_apis.py
+index_openviking.py
+restart-router.ps1
